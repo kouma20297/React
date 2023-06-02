@@ -1,0 +1,41 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+/dist/
+/build/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Local development settings
+.env
+
+# Compiled Python bytecode
+*.pyc
+
+# Database files
+*.sqlite3
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
